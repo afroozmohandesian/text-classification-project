@@ -5,7 +5,7 @@ This project implements a text classification pipeline that predicts the categor
 
 ## Architecture
 
-![Architecture](assets/architecture.png)
+![Architecture](assets/architecture.jpg)
 ## Problem Type
 Although defined as multi-label, the dataset behaves as a multi-class classification problem with 4 classes.
 
